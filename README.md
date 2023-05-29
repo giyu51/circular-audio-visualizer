@@ -2,7 +2,7 @@
 
 **:notes: AudioVisualizer** is an interactive software project that transforms audio input into captivating visualizations. It provides a visually engaging representation of sound, creating a dynamic experience for users. :sparkles:
 
-## Features
+## :sparkles: **Features**
 
 :sound: Real-time audio processing and analysis
 :art: Visual representation of audio through rotating circles
@@ -11,13 +11,13 @@
 
 ![Example](example.gif)
 
+### :computer: Tested Platforms
 
-### Supported Platforms
 - Linux (Tested ✔️)
 - Windows (Not Tested ❌)
 - MacOS (Not Tested ❌)
 
-## Dependencies
+## :link: Dependencies
 
 To run this project, you need to have the following dependencies installed:
 
@@ -29,7 +29,8 @@ To run this project, you need to have the following dependencies installed:
 
 
 
-## Installation
+## :inbox_tray: Installation
+
 
 
 
@@ -78,7 +79,7 @@ pip3 install numpy
 5. Install NumPy
 pip install numpy
 
-## Usage
+## :hammer_and_wrench: Usage
 
 Run the main application:
 ```shell
@@ -92,7 +93,7 @@ The AudioVisualizer interface will open, displaying a dynamic rotating circle th
 Enjoy the immersive experience as the circle's size and movement change in response to the volume and intensity of the audio 🔊.
 
 
-## Customization
+## :art: Customization
 
 Adjust the speed of rotation by modifying the **angle** variable in the *RotatingButton* class.
 ```shell
@@ -117,16 +118,16 @@ Customize the appearance of the circle by replacing the **circle.png** image fil
 
 ```
 
-## Code Description:
+## :page_with_curl: Code Description:
 The code for the AudioVisualizer project utilizes Python 🐍 and the Kivy framework 🎨 to create a visually stunning application. It makes use of the numpy library 🔢 for numerical computations and the sounddevice library 🔊 for capturing and processing audio input. The project consists of several classes and functions, including a custom RotatingButton class 🔄 that enables the rotation of buttons, a CircleWidget class 🟡 that represents the main visual element, and the MyKivyApp class 📱 that builds and runs the Kivy application. The code handles audio streaming 🎧, volume analysis 🔊, and the dynamic adjustment of the circle's size and position based on the audio input. With its modular structure and clear function descriptions, the code provides a solid foundation for extending and customizing the AudioVisualizer project.
 
-## Contributing
+## :raising_hand: Contributing
 🙌 Contributions to AudioVisualizer are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request 🛠️. For major changes, please open an issue to discuss your ideas beforehand 💡.
 
-## License
+## :scroll: License
 
 This project is licensed under the MIT License 📜.
-## Acknowledgments
+## :pray: Acknowledgments
 
 The project was inspired by the concept of audio visualization and interactive graphics.
 Special thanks to the contributors of the numpy, sounddevice, and kivy libraries for their valuable tools and resources.
