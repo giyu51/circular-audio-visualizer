@@ -21,7 +21,7 @@ AudioVisualizer is an interactive software project that transforms audio input i
 
 # Usage
 
-    Run the main application:
+Run the main application:
     ```shell
 
     python main.py
