@@ -12,13 +12,11 @@ AudioVisualizer is an interactive software project that transforms audio input i
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/your-username/AudioVisualizer.git
+    ```shell
+    git clone https://github.com/your-username/AudioVisualizer.git
+    ```
 
 
-
-Code Description:
-The code for the AudioVisualizer project utilizes Python and the Kivy framework to create a visually stunning application. It makes use of the numpy library for numerical computations and the sounddevice library for capturing and processing audio input. The project consists of several classes and functions, including a custom RotatingButton class that enables the rotation of buttons, a CircleWidget class that represents the main visual element, and the MyKivyApp class that builds and runs the Kivy application. The code handles audio streaming, volume analysis, and the dynamic adjustment of the circle's size and position based on the audio input. With its modular structure and clear function descriptions, the code provides a solid foundation for extending and customizing the AudioVisualizer project.
 
 
 # Usage
@@ -31,6 +29,9 @@ The code for the AudioVisualizer project utilizes Python and the Kivy framework 
     The AudioVisualizer interface will open, displaying a dynamic rotating circle that reacts to audio input.
 
     Enjoy the immersive experience as the circle's size and movement change in response to the volume and intensity of the audio.
+
+## Code Description:
+The code for the AudioVisualizer project utilizes Python and the Kivy framework to create a visually stunning application. It makes use of the numpy library for numerical computations and the sounddevice library for capturing and processing audio input. The project consists of several classes and functions, including a custom RotatingButton class that enables the rotation of buttons, a CircleWidget class that represents the main visual element, and the MyKivyApp class that builds and runs the Kivy application. The code handles audio streaming, volume analysis, and the dynamic adjustment of the circle's size and position based on the audio input. With its modular structure and clear function descriptions, the code provides a solid foundation for extending and customizing the AudioVisualizer project.
 
 # Customization
 
