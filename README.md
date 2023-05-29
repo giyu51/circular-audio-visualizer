@@ -3,17 +3,16 @@
 AudioVisualizer is an interactive software project that transforms audio input into captivating visualizations. It provides a visually engaging representation of sound, creating a dynamic experience for users. :sparkles:
 ##Features
 
-    :sound: Real-time audio processing and analysis
-    :art: Visual representation of audio through rotating circles
-    :speaker: Circle size and movement based on the volume and intensity of sound
-    :fast_forward: Smooth transition and responsiveness to changes in audio input
+:sound: Real-time audio processing and analysis
+:art: Visual representation of audio through rotating circles
+:speaker: Circle size and movement based on the volume and intensity of sound
+:fast_forward: Smooth transition and responsiveness to changes in audio input
 ## Installation
 
 1. Clone the repository:
 
    ```shell
    git clone https://github.com/your-username/AudioVisualizer.git
-   ```
 
 
 
